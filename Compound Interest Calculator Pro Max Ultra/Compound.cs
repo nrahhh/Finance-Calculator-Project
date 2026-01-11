@@ -1,4 +1,10 @@
-﻿using System;
+//
+//
+// DISCLAIMER : For fun/educational purposes only. Not financial advice. Use at your own risk
+//
+//
+
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
